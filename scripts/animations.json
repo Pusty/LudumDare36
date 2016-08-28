@@ -1,0 +1,139 @@
+[
+    {
+        "name": "pig",
+        "textures": [
+			"pig_0",
+			"pig_1",
+			"pig_2",
+			"pig_3"
+		],
+        "times": [
+			5,
+			5,
+			5,
+			5
+		]
+    },
+    {
+        "name": "truck",
+        "textures": [
+			"truck_0",
+			"truck_1",
+			"truck_2",
+			"truck_3"
+		],
+        "times": [
+			5,
+			5,
+			5,
+			5
+		]
+    },
+    {
+        "name": "pig_appear",
+        "textures": [
+			"pig_appear_0",
+			"pig_appear_1",
+			"pig_appear_2",
+			"pig_appear_3"
+		],
+        "times": [
+			5,
+			5,
+			5,
+			5
+		]
+    },
+    {
+        "name": "pig_beam",
+        "textures": [
+			"pig_beam_0",
+			"pig_beam_1",
+			"pig_beam_2",
+			"pig_beam_3"
+		],
+        "times": [
+			5,
+			5,
+			5,
+			5
+		]
+    },
+    {
+        "name": "potato_beam",
+        "textures": [
+			"potato_beam_0",
+			"potato_beam_1",
+			"potato_beam_2",
+			"potato_beam_3"
+		],
+        "times": [
+			5,
+			5,
+			5,
+			5
+		]
+    },
+    {
+        "name": "truck_potato",
+        "textures": [
+			"truck_potato_0",
+			"truck_potato_1",
+			"truck_potato_2",
+			"truck_potato_3"
+		],
+        "times": [
+			5,
+			5,
+			5,
+			5
+		]
+    },
+    {
+        "name": "pig_potato",
+        "textures": [
+			"pig_potato_0",
+			"pig_potato_1",
+			"pig_potato_2",
+			"pig_potato_3"
+		],
+        "times": [
+			5,
+			5,
+			5,
+			5
+		]
+    },
+    {
+        "name": "potato_smash",
+        "textures": [
+			"smash_0",
+			"smash_1",
+			"smash_2",
+			"smash_3",
+			"smash_4",
+			"smash_5",
+			"smash_6",
+			"smash_7",
+			"smash_8",
+			"smash_9",
+			"smash_10",
+			"smash_11",
+			"smash_12"
+		],
+        "times": [
+			10,
+			10,
+			10,
+			3,
+			3,
+			3,
+			3,
+			3,
+			3,
+			3,
+			3,
+			3
+		]
+    }
+]

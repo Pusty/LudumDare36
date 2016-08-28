@@ -1,0 +1,19 @@
+{
+    "name": "A Fox's Pottery",
+    "icon": "resources/icon.png",
+    "debug": false,
+	"save": false,
+	"world": "room",
+	"text": [
+		""
+	],
+	"variables": {
+		"police": 0,
+		"pottery_broken": 0,
+		"clay": 0,
+		"furnace": 0,
+		"gold": 0,
+		"color": 0,
+		"done": 0
+	}
+}
