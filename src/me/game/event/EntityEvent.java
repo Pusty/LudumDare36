@@ -142,7 +142,9 @@ public class EntityEvent implements Event{
 		
 			}
 		}else if(index==EntityScript.FURNACE) {
-			if(game.getVariable().get("furnace") == 0) {
+			if(game.getVariable().get("done") == 1) {
+				game.setDialog(new Dialog("player",new String[] {"A furnace to fire clay"},null));	
+			}else if(game.getVariable().get("furnace") == 0) {
 				game.setDialog(new Dialog("player",new String[] {"I can use this furnace to","fire the clay","or to melt stuff"},null));
 				game.getSound().playClip("up");
 				game.getVariable().put("furnace", 1);
