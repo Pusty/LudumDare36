@@ -1,3 +1,0 @@
-C:\Users\Hertha\Desktop\LudumDare36\motion\tilemap_01\map2\tilemap_01#tiles.png
-C:\Users\Hertha\Desktop\LudumDare36\motion\tilemap_01\map2\tilemap_01.tlc
-C:\Users\Hertha\Desktop\LudumDare36\motion\tilemap_01\map2\tilemap_01#map001.txm

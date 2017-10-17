@@ -1,3 +1,0 @@
-C:\Users\Leif\workspace\LudumDare36\motion\tilemap_01\map\tilemap_01#tiles.png
-C:\Users\Leif\workspace\LudumDare36\motion\tilemap_01\map\tilemap_01.tlc
-C:\Users\Leif\workspace\LudumDare36\motion\tilemap_01\map\tilemap_01#map001.txm
